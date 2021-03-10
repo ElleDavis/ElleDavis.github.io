@@ -1,0 +1,19 @@
+{
+  "name": "elledavis.github.io",
+  "version": "1.0.0",
+  "description": "personal profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElleDavis/ElleDavis.github.io.git"
+  },
+  "author": "ElleDavis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElleDavis/ElleDavis.github.io/issues"
+  },
+  "homepage": "https://github.com/ElleDavis/ElleDavis.github.io#readme"
+}

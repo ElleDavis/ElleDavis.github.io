@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ElleDavis/ElleDavis.github.io/issues"
   },
-  "homepage": "https://github.com/ElleDavis/ElleDavis.github.io#readme"
+  "homepage": "https://github.com/ElleDavis/ElleDavis.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-sessions": "^1.0.6"
+  }
 }

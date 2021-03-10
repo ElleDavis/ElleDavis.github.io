@@ -1,3 +1,52 @@
 body{
-    background-color: blueviolet;
+    background-color: #d3995f
+    ;
+}
+
+#headshot
+{border-radius: 100px;
+    border: 2px solid black;
+    width: 200px;
+    margin-bottom: 20px;
+    vertical-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* img{
+    width:200px;
+    height:250px;
+    margin:30px;
+    padding:20px;
+    border-color: white solid;
+    border-radius: 60%;
+    background-image:linear-gradient(to right, #8b4727 50%, transparent 50%) ;
+    background-image: 100% 0%;
+    background-size:200% 100% ;
+    transition: 0.6s;
+} */
+
+button{
+    color:black;
+    text-decoration:none;
+    border: 2px solid black ;
+    background-image: linear-gradient(to right, yellow 50%, transparent 50%) ;
+    background-position: 100% 0%;
+    background-size:200% 100% ;
+    transition: 0.5s;
+}
+button:hover{
+    background-image:linear-gradient(to right, yellow 50%, transparent 50%) ;
+    background-position: 0% 50%;
+
+}
+img.icon{
+height: 80px;
+width: 80px;
+}
+
+icon:hover{
+    
 }

@@ -6,40 +6,8 @@ import CardItem from '../CardItem';
 export default function Products(props) {
   
   return (
-    <div className="products" >
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+    <div className="productCards" >
+  
       <h1>Recent Products</h1>
       <div className="imageCard">
       <div>
@@ -61,7 +29,7 @@ export default function Products(props) {
               HTML, CSS, JavaScript, jQuery,Node.js, Sequelize ORM, Express, Express-Sessions, Postman, Heroku, Handlebars, Vanta.js
               '
               label='Full-Stack'
-              path='/products'
+              // path='/products'
             />
             <h5>ReUnion Project</h5>
             <CardItem
@@ -69,7 +37,7 @@ export default function Products(props) {
               text='
               All-Ready All-Ready is an Fashion App created to allows users to scroll and save images that match their personal fashion aesthetic. This app will make getting dressed quicker and easier to re-create faboulous looks. I used technologies such as UpSplash, Font Awesome, JavaScript, HTML, CSS, React, Bootstrap, Node, and Postman'
               label='Full-Stack'
-              path='/products'
+              // path='/products'
             />
       </div>
             </div>

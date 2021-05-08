@@ -10,24 +10,46 @@ export default function SignUp() {
          <div>
               <Button
                 className="btns"
+                type="button"
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
-                href="https://elledavis.github.io/"
-              > Connect on Github </Button>
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href='https://github.com/ElleDavis';
+                  }}
+              >Connect on Github </Button>
               
               <Button
                 className="btns"
-                href="mailto:@shanitricedavis@gmail.com?subject=subject text"
+                type="button"
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href='mailto:@shanitricedavis@gmail.com?subject=subject text';
+                  }}
               >Connect via Email</Button>
 
-              <Button
+<Button
                 className="btns"
-                href="https://www.linkedin.com/in/elle-davis/"
+                type="button"
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
-              >Connect on LinedIn</Button>
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href='https://drive.google.com/drive/folders/1sT1zNksA-O_EXfOArpv-u1Z0vOkkZQ2E';
+                  }}
+              >View my Resume</Button>
+
+              <Button
+                type="button"
+                buttonStyle="btn--outline"
+                buttonSize="btn--large"
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href='https://www.linkedin.com/in/elle-davis/';
+                  }}
+            >Connect on LinkedIn</Button>
 
 
         </div>

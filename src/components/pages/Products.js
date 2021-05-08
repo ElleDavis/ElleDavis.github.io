@@ -26,6 +26,20 @@ export default function Products(props) {
       <br></br>
       <br></br>
       <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
       <h1>Recent Products</h1>
       <div className="imageCard">
       <div>
@@ -46,6 +60,14 @@ export default function Products(props) {
               I developed the login-in feature, along with the user validation for passwords, installed middleware and assisted with database endpoints
               HTML, CSS, JavaScript, jQuery,Node.js, Sequelize ORM, Express, Express-Sessions, Postman, Heroku, Handlebars, Vanta.js
               '
+              label='Full-Stack'
+              path='/products'
+            />
+            <h5>ReUnion Project</h5>
+            <CardItem
+              src='./images/img-13.jpg'
+              text='
+              All-Ready All-Ready is an Fashion App created to allows users to scroll and save images that match their personal fashion aesthetic. This app will make getting dressed quicker and easier to re-create faboulous looks. I used technologies such as UpSplash, Font Awesome, JavaScript, HTML, CSS, React, Bootstrap, Node, and Postman'
               label='Full-Stack'
               path='/products'
             />

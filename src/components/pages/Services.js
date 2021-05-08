@@ -6,7 +6,9 @@ export default function Services() {
     
     return(
         <div className="services">
-            <h1>Services and Technologies</h1>
+          <br></br>
+          <br></br>
+            <h3>Services and Technologies</h3>
             <div className="icons">
             
       <div className='cards__container'>

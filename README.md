@@ -1,4 +1,4 @@
-Elle's Portfolio: ElleDavis.github.io
+Elle's Portfolio: https://elledavis.github.io/
 
 
 # Getting Started with Create React App

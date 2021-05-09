@@ -17,7 +17,7 @@ export default function SignUp() {
                   e.preventDefault();
                   window.location.href='https://github.com/ElleDavis';
                   }}
-              >Connect on Github </Button>
+              >Connect via Github </Button>
               
               <Button
                 className="btns"
@@ -49,7 +49,7 @@ export default function SignUp() {
                   e.preventDefault();
                   window.location.href='https://www.linkedin.com/in/elle-davis/';
                   }}
-            >Connect on LinkedIn</Button>
+            >Connect via LinkedIn</Button>
 
 
         </div>

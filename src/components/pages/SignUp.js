@@ -39,7 +39,7 @@ export default function SignUp() {
                   e.preventDefault();
                   window.location.href='https://drive.google.com/drive/folders/1sT1zNksA-O_EXfOArpv-u1Z0vOkkZQ2E';
                   }}
-              >View my Resume</Button>
+              > View My Resume</Button>
 
               <Button
                 type="button"

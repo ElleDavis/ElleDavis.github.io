@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.542b503e.chunk.css",
-    "main.js": "/static/js/main.9a98b7de.chunk.js",
-    "main.js.map": "/static/js/main.9a98b7de.chunk.js.map",
+    "main.css": "/static/css/main.f1ae78d9.chunk.css",
+    "main.js": "/static/js/main.78581c63.chunk.js",
+    "main.js.map": "/static/js/main.78581c63.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.381a1081.js",
     "runtime-main.js.map": "/static/js/runtime-main.381a1081.js.map",
     "static/js/2.c1748e1e.chunk.js": "/static/js/2.c1748e1e.chunk.js",
     "static/js/2.c1748e1e.chunk.js.map": "/static/js/2.c1748e1e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.542b503e.chunk.css.map": "/static/css/main.542b503e.chunk.css.map",
+    "static/css/main.f1ae78d9.chunk.css.map": "/static/css/main.f1ae78d9.chunk.css.map",
     "static/js/2.c1748e1e.chunk.js.LICENSE.txt": "/static/js/2.c1748e1e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/peony.e11773dc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.381a1081.js",
     "static/js/2.c1748e1e.chunk.js",
-    "static/css/main.542b503e.chunk.css",
-    "static/js/main.9a98b7de.chunk.js"
+    "static/css/main.f1ae78d9.chunk.css",
+    "static/js/main.78581c63.chunk.js"
   ]
 }

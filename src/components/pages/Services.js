@@ -43,7 +43,7 @@ export default function Services() {
              <CardItem
               src='/images/pg.png'
               text='Postgres/PgAdmin'
-              label='Postgres'
+              label='Postgres Database'
             //   path='/products'
             /><CardItem
               src='/images/npm.png'

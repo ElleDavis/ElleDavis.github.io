@@ -4,10 +4,10 @@ import "../App.css";
 import { Button } from "./Button";
 import "./HeroSection.css";
 
-function handleClick(e) {
-  e.preventDefault();
-  console.log('The link was clicked.');
-}
+// function handleClick(e) {
+//   e.preventDefault();
+//   console.log('The link was clicked.');
+// }
 
 
 class HeroSection extends React.Component {

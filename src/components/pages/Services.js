@@ -6,6 +6,8 @@ export default function Services() {
     
     return(
         <div className="services">
+          <br></br>
+          <br></br>
             <h1>Services and Technologies</h1>
             <div className="icons">
             
@@ -33,19 +35,19 @@ export default function Services() {
             //   path='/products'
             />
             <CardItem
-              src='./images/img-21.jpg'
+              src='./images/node-transparent.png'
               text='Node'
               label='Node.js'
             //   path='/products'
             />
              <CardItem
-              src='/images/postgresql.png'
-              text=''
-              label='Postgres'
+              src='/images/pg.png'
+              text='Postgres/PgAdmin'
+              label='Postgres Database'
             //   path='/products'
             /><CardItem
               src='/images/npm.png'
-              text='Postgres/PgAdmin'
+              text='Node package Manager'
               label='NPM'
             //   path='/products'
             />
@@ -53,19 +55,19 @@ export default function Services() {
           {/* Makes card links */}
           <ul className='cards__items'>
             <CardItem
-              src='./images/img-10.jpg'
+              src='./images/react logo.png'
               text='Use for Full-Stack Applications'
               label='React/Redux'
             //   path='/services'
             />
             <CardItem
-              src='/images/img-5.jpg'
+              src='/images/bootstrap.jpeg'
               text='Use for responsiveness'
               label='BootStrap'
             //   path='/products'
             />
             <CardItem
-              src='./images/img-19.jpg'
+              src='./images/img-22.png'
               text='Use for Version Contol'
               label='GitHub'
             //   path='/services'
@@ -83,7 +85,7 @@ export default function Services() {
             //   path='/products'
             />
             <CardItem
-              src='/images/JSON.png'
+              src='/images/jason.jpeg'
               text='Check-out my Travel App'
               label='JSON/JSX'
             //   path='/products'

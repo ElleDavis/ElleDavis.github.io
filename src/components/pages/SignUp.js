@@ -13,7 +13,7 @@ export default function SignUp() {
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
                 href="https://elledavis.github.io/"
-              > Connect on Github </Button>
+              > Connect via Github </Button>
               
               <Button
                 className="btns"
@@ -27,7 +27,7 @@ export default function SignUp() {
                 href="https://www.linkedin.com/in/elle-davis/"
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
-              >Connect on LinedIn</Button>
+              >Connect via LinedIn</Button>
 
 
         </div>
